@@ -1,4 +1,4 @@
-# PorjectManager-2.0
+# ProjectManager-2.0
 Manager for building projects
 
 The program allows a user to enter the details of a build project. Each project can be edited
