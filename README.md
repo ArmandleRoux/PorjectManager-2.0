@@ -15,7 +15,7 @@ The program aims to make project management quick and easy.
 
 1. To use the program run command promt.
 2. Navigate to the folder with the file using command "cd C:\\folderwithjavafile".
-3. Enter the command "javac projectManager.java"
+3. Enter the command "javac projectManager.java DatabaseManager.java"
 4. Enter the command "java projectManager.java"
 5. The program should now run.
 
